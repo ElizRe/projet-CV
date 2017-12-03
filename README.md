@@ -1,2 +1,2 @@
 # projet-CV
-See site at https://elizre.github.io/projet-CV/projetcv/index.html
+See site at https://elizre.github.io/projet-CV/projetcv/
