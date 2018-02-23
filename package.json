@@ -1,0 +1,21 @@
+{
+  "name": "",
+  "description": "See site at https://elizre.github.io/projet-CV/projetcv/",
+  "version": "",
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-imagemin": "^4.0.0"
+  },
+  "dependencies": {
+    "ajv": "^5.5.1",
+    "ajv-keywords": "^2.1.1",
+    "bootstrap": "^4.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^3.0.0",
+    "jquery": "^3.3.1",
+    "webpack": "^3.10.0"
+  }
+}
